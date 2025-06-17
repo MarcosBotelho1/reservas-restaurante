@@ -1,0 +1,7 @@
+com\restaurante\model\Cliente.class
+com\restaurante\model\ItemCardapio.class
+com\restaurante\model\Mesa.class
+com\restaurante\model\Pedido.class
+com\restaurante\Main.class
+com\restaurante\model\ItemPedido.class
+com\restaurante\model\Reserva.class
